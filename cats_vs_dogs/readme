@@ -1,7 +1,7 @@
 这份数据集来源于Kaggle，数据集有12500只猫和12500只狗。在这里简单介绍下整体思路  
-1. 处理数据 
-2. 设计神经网络 
-3. 进行训练测试
+1. 处理数据 input_date.py
+2. 设计神经网络 model.py
+3. 进行训练测试 test_net.py
 	tensorflow
 	python -2.7
 	python 3-
